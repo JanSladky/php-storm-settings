@@ -1,0 +1,5 @@
+shift ctrl a -> najdu všechno
+ctrl alt sipka dolu -> označení mezi uvozovkami slova
+ctrl alt sipka nahoru -> extend selection
+ctrl shift sipky -> posouvání řádků
+alt sipka nahoru mění uppercase
